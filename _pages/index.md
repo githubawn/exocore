@@ -34,7 +34,7 @@ Joycat.![emoji2.png]({{site.baseurl}}_pages/emoji2.png)
 
 ![pep2.png]({{site.baseurl}}_pages/pep2.png)
 
-![lawlchun.png]({{site.baseurl}}/_pages/lawlchun.png)
+![lawlchun.png]({{site.baseurl}}_pages/lawlchun.png)
 
 
 
