@@ -32,6 +32,10 @@ My Official Curriculum Vitae:
 
 ![pep2.png]({{site.baseurl}}_pages/pep2.png)
 
+![sprite.png]({{site.baseurl}}_pages/sprite.png)
+
+
+
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -54,6 +58,15 @@ Booking Calendar
 
 
 ------------------------------------------------------------------------------------------------------------
+
+
+Cntrl Intrpt Md of Pycdlic Actn: Bk Psychedlic Info Thry, Jams Knt sggsts sbl dstrptns to prcptn. Ths md prdcl faliur of cntrl allws expnc to last lnger. Dffrnt pycdlics vary in frqncy. DMT high frqncy (24-30+ Hz). Cntrl intrpt crets "hllucngnc ntrfrnce pttrn in cnciousnss".
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 ## License
