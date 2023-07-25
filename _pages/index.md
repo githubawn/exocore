@@ -22,7 +22,9 @@ Joycat.![emoji2.png]({{site.baseurl}}_pages/emoji2.png)
 
 ------------------------------------------------------------------------------------------------------------
 
-My Official Curriculum Vitae:
+💼My Official Curriculum Vitae💼
+
+![sprite.png]({{site.baseurl}}_pages/sprite.png)
 
 ![r2rion.png]({{site.baseurl}}_pages/r2rion.png)
 
@@ -32,14 +34,13 @@ My Official Curriculum Vitae:
 
 ![pep2.png]({{site.baseurl}}_pages/pep2.png)
 
-![sprite.png]({{site.baseurl}}_pages/sprite.png)
-
+![lawlchun.png]({{site.baseurl}}/_pages/lawlchun.png)
 
 
 
 ------------------------------------------------------------------------------------------------------------
 
-My Body Will Fail
+💀My Body Will Fail💀
 
 ![my.png]({{site.baseurl}}_pages/my.png)
 ![body.png]({{site.baseurl}}_pages/body.png)
@@ -52,9 +53,10 @@ My Body Will Fail
 
 ------------------------------------------------------------------------------------------------------------
 
-Booking Calendar
+to breathe together:
 
 [https://calendar.app.google/piqDKJjgxDZQERLT9](https://calendar.app.google/piqDKJjgxDZQERLT9)
+(not reddit tho)
 
 
 ------------------------------------------------------------------------------------------------------------
