@@ -3,35 +3,46 @@ layout: page
 title: Exocore - Public Markdown Exocortex
 id: home
 permalink: /
+published: true
 ---
+_i don't know how you get both pfp's next to eachother so please render them like they're next to eachter in your biological neuralnet_
 
-![study-monk](/assets/image.jpg)
+![16972d33e84b4ce4dce35abc480db758.png]({{site.baseurl}}/_pages/16972d33e84b4ce4dce35abc480db758.png)
+![pfp2hidden.png]({{site.baseurl}}/_pages/pfp2hidden.png)  
 
-Preconfigured template to roll out your own no-code, no-cost personal website as a public exocortex from documents written in simple Markdown syntax, including interlinking, generated backlinks and a nodal graph-rendering. Site's are rendered in fast, responsive, standards-compliant static HTML. 
+hi i'm mirellee (written as ൱ireℓℓeℇ) a Micro (165+ joycats) Internet Person
 
-No downloads or installation required, site is hosted and served through Github & Netlify - automated setup takes 5 minutes.
 
-## Features
+i just like joycats so much
 
-- Based on Jekyll, a static, standards-compliant website generator with lightweight & responsive design
-- Supports Markdown and HTML notes
-- Supports Roam/Obsidian-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Features graph visualization of the notes and their links
+In the convoluted and labyrinthine realm of digital hieroglyphics, a particularly multifarious and evocative symbol has emerged, causing a maelstrom of emotional expression amongst the denizens of the virtual world. This symbol, an amalgamation of whimsicality, amusement, and a peculiar physiological reaction, has metamorphosed into a ubiquitous and indispensable figure in the intricate tapestry of human interaction. Diving into the intrinsic properties of this enigmatic symbol, one is immediately struck by the exquisite synthesis of contradictory elements, elegantly conjoining ebullience and aqueous melancholy. Indeed, the visage bears a striking similarity to a certain carnivorous mammal, albeit bereft of its ferocious countenance. Perched daintily upon its visage, two shimmering ocular orbs exhibit a crystalline torrent, cascading resplendently down the countenance in a rivulet of unadulterated delight. A noteworthy characteristic of this arcane symbol is its almost ostentatious display of hilarity. The creature's mouth, stretched in an unnaturally contorted crescent, reveals a rictus of glee, reminiscent of the ancient and hallowed cheshire grin. The resultant effect evokes an aura of surreptitious mirth, inducing a similar sense of jocularity in the observer. One may ponder the impetus behind the creation of such a perplexing emblem. The answer, it seems, lies in the unfathomable depths of the human psyche. This symbol serves as a conduit for the expression of our most sublimated feelings, allowing us to share moments of ineffable jubilation and unbridled laughter with our fellow sentient beings.
+Employed judiciously and with discretion, this icon may facilitate the establishment of profound connections between individuals, transcending the barriers of language, culture, and geographical distance. The enigmatic emblem's versatility is further exemplified by its ability to deftly navigate the treacherous waters of irony and sarcasm, adroitly circumventing the pitfalls of miscommunication that often plague the digital realm. Deployed with finesse, this symbol serves as a potent instrument in the skilled wordsmith's arsenal, allowing for the artful manipulation of language in the pursuit of the sublime and the absurd. It would be remiss not to acknowledge the indelible impact that this emblem, a veritable cornucopia of laughter, tears, and the ineffable, has had on the landscape of human expression. As we continue to traverse the winding pathways of the virtual world, it is comforting to know that we have such an abstruse and enigmatic ally by our side, providing solace, amusement, and camaraderie in equal measure. Truly, the boundless depths of its potential may never be fully plumbed, but it is certain that this symbol, the embodiment of our collective idiosyncrasies, shall continue to delight and perplex us in equal measure for generations to come. And so, with a final flourish, we pay homage to the symbol that has captured the hearts and minds of the digital realm:
 
-## Effortless Launch
+Joycat.![emoji2.png]({{site.baseurl}}/_pages/emoji2.png)
 
-This has been designed to be as easy as possible to launch onto a live host at no-charge, through hosting on Github Pages and site serving through Netlify. Files can be accessed and edited from anywhere through Github and will be automatically updated live on the site.
+------------------------------------------------------------------------------------------------------------
 
-With a [Github account](https://github.com/join), you can use our [One-click Installation](https://app.netlify.com/start/deploy?repository=https://github.com/xcela/exocore) to go live in minutes and start making posts immediately.
+My Official Curriculum Vitae:
 
-Follow the [>>Step by step guide](step-by-step-tutorial) for a step by step walkthrough.
+![r2rion.png]({{site.baseurl}}/_pages/r2rion.png)
+
+![surinau.png]({{site.baseurl}}/_pages/surinau.png)
+
+![hortau.png]({{site.baseurl}}/_pages/hortau.png)
+
+![pep2.png]({{site.baseurl}}/_pages/pep2.png)
+
+
+------------------------------------------------------------------------------------------------------------
+
+Booking Calendar
+
+https://calendar.app.google/piqDKJjgxDZQERLT9
+
+
+------------------------------------------------------------------------------------------------------------
+
 
 ## License
 
 Source code is available under the [Viral Public License](LICENSE.md).
-
----
-
-An [XCELA: New Computing Research Group](https://xcela.org) project.
